@@ -1,4 +1,4 @@
-# A Todo App usind TypeScript
+# A Todo App using TypeScript
 
 Small todo app that showcases knowledge of TypeScript, Redux and React Testing Library
 
