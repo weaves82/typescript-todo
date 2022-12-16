@@ -1,4 +1,4 @@
-# A Todo App using TypeScript - Please update
+# A Todo App using TypeScript - This is the new branch 2
 
 Small todo app that showcases knowledge of TypeScript, Redux and React Testing Library
 
