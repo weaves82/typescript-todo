@@ -1,4 +1,4 @@
-# A Todo App using TypeScript
+# A Todo App using TypeScript - Please update
 
 Small todo app that showcases knowledge of TypeScript, Redux and React Testing Library
 
